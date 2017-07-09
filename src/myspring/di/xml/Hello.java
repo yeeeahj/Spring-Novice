@@ -14,7 +14,7 @@ public class Hello {
 		this.printer = printer;
 	}
 	public String sayHello(){
-		 return "hello" + name;
+		 return "hello!" + name;
 	
 	}
 	public void print(){
